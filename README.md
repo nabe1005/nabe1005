@@ -1,20 +1,39 @@
-## 🟡 About Me 🟡
+### 🟡 About Me 🟡
 
 Hello, My name is Taiki Watanabe (渡部 泰生).  
 And I use nabe1005 and rinomai as screen name.
 
-## 💪 My Skills 💪
+### 💪 My Skills 💪
 
-### 😎 Often Use
+#### 🚀 Native App
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,js,ts,deno,vue,nuxt,python,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,swift,kotlin)](https://skillicons.dev)
 
-### 🌱 Now Learning
+#### 🚀 Web
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,nim,swift,kotlin,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,deno,vue,nuxt,flask)](https://skillicons.dev)
 
-### Using
+#### 🚀 Backend
 
-[![My Skills](https://skillicons.dev/icons?i=discord,figma,vscode,github,gitlab,androidstudio,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,go)](https://skillicons.dev)
 
+#### 🚀 Other
 
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,c,)](https://skillicons.dev)
+
+#### 🌱 Learning
+
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)
+
+### 💻 Contribute 💻
+- Whowatch App
+- Vap: https://github.com/Tencent/vap
+- MocMoc: https://github.com/nabe1005/MocMoc
+- chiritsumo: https://github.com/haruyuki-16278/chiritsumo
+  - 守る環境ハッカソンin鯖江 参加 https://peatix.com/event/3412028/view
+- Flutter Study Page: https://github.com/nabe1005/flutter_study_page
+
+### 📨 Contact Me 📨
+
+Twitter: [@nabe__1005](https://twitter.com/nabe__1005)  
+Discord: rinomai
