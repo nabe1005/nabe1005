@@ -1,16 +1,20 @@
-### Hi there 👋
+## 🟡 About Me 🟡
 
-<!--
-**nabe1005/nabe1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, My name is Taiki Watanabe (渡部 泰生).  
+And I use nabe1005 and rinomai as screen name.
 
-Here are some ideas to get you started:
+## 💪 My Skills 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😎 Often Use
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,js,ts,deno,vue,nuxt,python,flask)](https://skillicons.dev)
+
+### 🌱 Now Learning
+
+[![My Skills](https://skillicons.dev/icons?i=react,next,nim,swift,kotlin,figma)](https://skillicons.dev)
+
+### Using
+
+[![My Skills](https://skillicons.dev/icons?i=discord,figma,vscode,github,gitlab,androidstudio,arduino)](https://skillicons.dev)
+
+
